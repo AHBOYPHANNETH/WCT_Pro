@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.Store{
+    width: 100%;
+    height: 1000px;
+    /* background-color: red; */
+    margin: auto;
+    margin-top: 20px ;
+    display: block;
+    justify-content: space-between;
+}
+.ads  img {
+    width: 100%;
+    height: 150px;
+    /* object-fit: contain; */
+    object-fit: cover;
+    /* background-color: blue; */
+}
+.Store .Box1{
+    width: 100%;
+    height: 10%;
+    /* margin-top: 20px; */
+    /* background-color: blue; */
+}
+img{
+    width: 50%;
+    height: 10%;
+    object-fit: contain; 
+    /* margin: 5px; */
+}
+h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+h2 {
+    text-align: center;
+    margin-top: 50px;
+}
+.Store .Box2{
+    width: 70%;
+    height: 800px;
+    /* background-color: blue; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    margin-top: 150px;
+    /* margin-top: 20px; */
+    /* object-fit: contain; */
+    /* border-radius: solid 10% black; */
+}
+.Store .rules{
+    width: 70%;
+    height: 20px;
+    background-color: black;
+    margin-left: 300px;
+}
+.Store .Box3{
+    width: 70%;
+    height: 800px;
+    /* background-color: red; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    margin-top: 150px;
+    /* margin-top: 20px;?\ */
+    /* object-fit: contain; */
+    /* border-radius: solid 10% black; */
+}
+.Store .Box4{
+    width: 70%;
+    height: 800px;
+    /* background-color: red; */
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    margin-top: 150px;
+    /* margin-top: 20px; */
+    /* border: 2px solid black; */
+    /* object-fit: contain; */
+    /* border-radius: solid 10% black; */
+}
+/* .log{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+} */
+.Store .Social{
+    width: 100%;
+    height: 150px;
+    /* background-color: red; */
+    justify-content: space-between;
+    display: flex;
+}
+.Social .icon img {
+    width: 49%;
+    height: 100%;
+    margin: 50px 20px 50px;
+    
+    /* background-color: blue; */
+}
+.Social .About{
+    width: 49%;
+    height: 100%;
+    background-color: burlywood;
+}
+.Store .black{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

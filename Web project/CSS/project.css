@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.ads  img {
+    width: 100%;
+    height: 150px;
+    /* object-fit: contain; */
+    object-fit: cover;
+    /* background-color: blue; */
+}
+.Store{
+    width: 100%;
+    height: 1000px;
+    /* background-color: red; */
+    margin: auto;
+    margin-top: 20px ;
+    display: flex;
+    justify-content: space-between;
+}
+.Box1{
+    width: 100%;
+    height: 10%;
+    /* margin-top: 20px ; */
+    /* background-color: blue; */
+}
+img{
+    width: 50%;
+    height: 10%;
+    object-fit: contain; 
+    /* margin: 5px; */
+}
+.Box2{
+    width: 70%;
+    height: 800px;
+    /* background-color: blue; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    display: block;
+    margin: auto;
+    /* margin-top: 20px; */
+    /* object-fit: contain; */
+    /* border-radius: solid 10% black; */
+}
+.Box3{
+    width: 70%;
+    height: 800px;
+    /* background-color: red; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    display: block;
+    margin: auto;
+    /* margin-top: 20px;?\ */
+    /* object-fit: contain; */
+    /* border-radius: solid 10% black; */
+}
+.Box4{
+    width: 70%;
+    height: 800px;
+    /* background-color: red; */
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    display: block;
+    margin: auto;
+    /* margin-top: 20px; */
+    /* border: 2px solid black; */
+    /* object-fit: contain; */
+    /* border-radius: solid 10% black; */
+}
+.End{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(24, 24, 172);
+}
+.text{
+    color: white;
+}
+/* .socail{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(149, 146, 146);
+    background-color: black;
+    object-fit: cover;
+} */
